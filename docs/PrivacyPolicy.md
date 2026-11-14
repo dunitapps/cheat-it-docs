@@ -1,6 +1,6 @@
 PRIVACY POLICY<br>
 CheatIt: Watch Notes & AI<br>
-Effective date: 27.1.2026
+Effective date: 18.11.2026
 
 This Privacy Policy explains how CheatIt (we, us, our) handles information when you use the CheatIt app on iPhone and Apple Watch (the Service).
 
@@ -36,6 +36,8 @@ To operate the Service, we may process limited technical data such as:<br>
 • basic logs for reliability and security (for example, error messages and rate-limiting events)<br>
 • network information like IP address, which is typically processed by servers when you connect<br>
 
+The app also sends usage statistics (which features are used, and whether an action succeeded or failed) and crash reports. These are not linked to your name, email, or account, and do not include the content of your notes, files, or chats.
+
 We do not require you to create an account with your name or email address.
 
 2) How we use information
@@ -55,6 +57,7 @@ We share information only as needed to provide the Service, including with:<br>
 • Apple, for iCloud syncing (if enabled) and In-App Purchases<br>
 • RevenueCat, for subscription entitlement management<br>
 • OpenRouter and the AI model provider you selected, to generate AI responses<br>
+• PostHog, which processes usage statistics and crash reports for us on servers in the European Union<br>
 • service providers that help us run our backend infrastructure (for example, hosting and database providers)<br>
 
 4) OpenRouter and AI provider data handling
@@ -92,6 +95,7 @@ OpenRouter and model providers may retain or process data according to their own
 • AI is optional. You can use CheatIt without AI features.<br>
 • You can delete notes and attachments at any time in the app. If iCloud syncing is enabled, deletions will also sync through iCloud.<br>
 • You can manage or cancel subscriptions in your Apple ID settings.<br>
+• You can turn off usage statistics and crash reports at any time in Settings, under “Share Anonymous Usage Stats”.<br>
 • If you want to request deletion of backend records associated with your usage, contact us at contact@dunitapps.com.<br>
 
 7) International users
@@ -111,4 +115,5 @@ For more information about third-party services, you can review:
 • OpenRouter privacy and logging overview: https://openrouter.ai/docs/features/privacy-and-logging/<br>
 • OpenRouter zero data retention (ZDR): https://openrouter.ai/docs/features/zdr<br>
 • RevenueCat privacy policy: https://www.revenuecat.com/privacy/<br>
+• PostHog privacy policy: https://posthog.com/privacy<br>
 • Apple privacy policy: https://www.apple.com/legal/privacy/<br>
